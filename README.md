@@ -34,7 +34,7 @@ npm run build
 
 ## 在线预览
 
-访问：[GitHub Pages 部署地址](https://your-username.github.io/travel-expense-viz/)
+访问：[GitHub Pages 部署地址](https://feifei21610.github.io/travel-expense-viz/)
 
 ## 数据说明
 
